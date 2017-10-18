@@ -10,21 +10,4 @@ Constructed an fst in nltk that can translate any given Arabic numeral
 into its corresponding French string. For the sake of convenience, you will
 only be given integer input less than 1000.
 
-Arabic | French | English Gloss
 
-4 quatre four
-6 six six
-16 seize sixteen
-17 dix sept ten seven
-20 vingt twenty
-26 vingt six twenty six
-56 cinquante six fifty six
-66 soixante six sixty six
-71 soixante et onze sixty and eleven
-76 soixante seize sixty sixteen
-80 quatre vingt four twenty
-81 quatre vingt un four twenty one
-86 quatre vingt six four twenty six
-91 quatre vingt onze four twenty eleven
-96 quatre vingt seize four twenty sixteen
-996 neuf cent quatre ving seize nine hundred four twenty sixteen
